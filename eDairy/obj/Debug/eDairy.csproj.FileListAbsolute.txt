@@ -1,0 +1,15 @@
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\bin\Debug\eDairy.exe.config
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\bin\Debug\eDairy.exe
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\bin\Debug\eDairy.pdb
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\obj\Debug\eDairy.FormAdmin.resources
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\obj\Debug\eDairy.FormLogin.resources
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\obj\Debug\eDairy.FormManager.resources
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\obj\Debug\eDairy.FormStudent.resources
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\obj\Debug\eDairy.FormTeacher.resources
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\obj\Debug\eDairy.Properties.Resources.resources
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\obj\Debug\eDairy.csproj.GenerateResource.Cache
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\obj\Debug\eDairy.exe
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\obj\Debug\eDairy.pdb
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\obj\Debug\eDairy.FormSettings.resources
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\obj\Debug\eDairy.FormList.resources
+E:\Files\Important\Универ\2й курс\Курсач\eDairy\eDairy\obj\Debug\eDairy.csprojResolveAssemblyReference.cache
